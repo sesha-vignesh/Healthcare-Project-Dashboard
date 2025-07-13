@@ -1,9 +1,11 @@
 # Healthcare-Project-Dashboard
 
 **Healthcare Analytics**
+
 A dynamic, interactive data visualization tool built to analyze financial performance of the UK healthcare centre. Additionally provide insights on the healthcare providers.
 
 **Description**
+
 Identified and presented key performance indicators (KPIs) and significant trends in the dataset. Ensured that the analysis is detailed and covered all relevant aspects of healthcare centre's finance and performance of the providers.
 
 **Dashboard**
